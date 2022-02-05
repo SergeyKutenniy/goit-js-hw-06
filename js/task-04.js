@@ -1,3 +1,5 @@
+// Создает простой счетчик по кнопкам
+
 const btnIncrement = document.querySelector("[data-action=increment]");
 const btnDecrement = document.querySelector("[data-action=decrement]");
 const value = document.querySelector("#value");

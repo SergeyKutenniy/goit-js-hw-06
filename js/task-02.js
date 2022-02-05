@@ -1,3 +1,5 @@
+// Добавляет елементы разметки в HTML
+
 const ingredients = [
   "Potatoes",
   "Mushrooms",
